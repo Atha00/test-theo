@@ -5,7 +5,7 @@ import Cookies from "js-cookie";
 // PAGES
 import Home from "./pages/home/Home";
 import Signup from "./pages/signup/Signup";
-import Login from "./pages/login/login";
+import Login from "./pages/login/Login";
 import Characters from "./pages/characters/Characters";
 import CharacterDetails from "./pages/character-details/CharacterDetails";
 import Comics from "./pages/comics/Comics";
